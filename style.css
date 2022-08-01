@@ -1,4 +1,4 @@
-body {
+ body {
     font-size:1rem;
     font-family:'Raleway',sans-serif;
     min-height:100vh;
@@ -106,7 +106,7 @@ background:hsl(243, 87%, 12%);
   /*--------ABOUT SECTION----------*/
   
 .about{
-  background-image:url(/images/bg-curve-mobile.svg);
+  background-image:url(bg-curve-mobile.svg);
   background-color:hsl(240, 75%, 98%);
  background-repeat:no-repeat;
  padding:15px;
